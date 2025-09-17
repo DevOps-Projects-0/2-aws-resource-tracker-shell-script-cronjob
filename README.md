@@ -64,7 +64,7 @@ set -x
 
 ### Make it executable:
 ```bash
-chmod 744 /home/data/shell-scripting/aws_resource_tracker.sh
+chmod -x /home/data/shell-scripting/aws_resource_tracker.sh
 ```
 
 ---
